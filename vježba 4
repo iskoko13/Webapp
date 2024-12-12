@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>
+			vježba 4
+		</title>
+	</head>
+	<body>
+		<table border="3" cellpadding="10">
+			<tr align="center">
+				<td><b>Samsung</b></td>
+				<td><b>Apple</b></td>
+				<td><b>Huawei</b></td>
+				<td><b>Panasonic</b></td>
+			</tr>
+			<tr align="left">
+				<td>Galaxy A3</td>
+				<td>Iphone 6</td>
+				<td>Holly 4 plus</td>
+				<td>Elluga Ray 500</td>
+			</tr>
+			<tr align="left">
+				<td>Galaxy S4</td>
+				<td>Iphone 7</td>
+				<td>Mate 10 Lite</td>
+				<td>Elluga Ray 700</td>
+			</tr>
+			<tr align="left">
+				<td>Galaxy S5</td>
+				<td>Iphone 8</td>
+				<td>Mate 10 Pro</td>
+				<td>Elluga I4</td>
+			</tr>
+			<tr align="left">
+				<td>Galaxy S6</td>
+				<td>Iphone 8 plus</td>
+				<td>Enjoy 7S</td>
+				<td>P99</td>
+			</tr>
+			<tr align="left">
+				<td>Galaxy S9</td>
+				<td>Iphone X</td>
+				<td>Nova 2S</td>
+				<td>Elluga A4</td>
+			</tr>
+		</table>
+	</body>
+</html>
