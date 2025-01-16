@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>
+			vježba 4
+		</title>
+	</head>
+	<body>
+		<table border="3" cellpadding="5">
+			<tr align="center">
+				<td colspan="2"><b>Samsung</b></td>
+				<td colspan="2"><b>Apple</b></td>
+			</tr>
+			<tr align="center">
+				<td><img src="https://cdn.alloallo.media/catalog/product/samsung/galaxy-s/galaxy-s8/galaxy-s8-orchid-gray.jpg" alt="8" width="60"></td>
+				<td>Galaxy S8</td>
+				<td><img src="https://elektronik.com.hr/wp-content/uploads/2024/03/slika-2-9.jpg" alt="9" width="60"></td>
+				<td>Iphone 9</td>
+			</tr>
+			<tr align="center">
+				<td><img src="https://www.mobis.hr/upload/catalog/product/6097/thumb/154627-2-samsung-galaxy-s9-dual-sim-4gb-64gb-zlatn_5ce557a608697_900x1500r.jpg" alt="9" width="60"></td>
+				<td>Galaxy S9</td>
+				<td><img src="https://www.refreshedapples.com/cdn/shop/products/iphone-x-hso-203092_600x600.jpg?v=1709040243" alt="x" width="60"></td>
+				<td>Iphone X</td>
+			</tr>
+		</table>
+	</body>
+</html>
