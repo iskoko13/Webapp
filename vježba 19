@@ -169,9 +169,9 @@
         <h2>LUXURY SMARTWATCHES</h2>
         <div class="watch-container">
             <div class="watch">
-                <img src="agalovic/WA2324-vjezbe/blob/main/adventurer.webp" alt="Watch 1">
+                <img src="iskoko13/Webapp/blob/main/slike/adventurer.webp" alt="Watch 1">
                 <div class="watch-text">
-                    <h3>MARQ® Adventurer</h3>
+                    <h3>MARQ&reg; Adventurer</h3>
                     <p>Potrebna vam je pouzdana pomoć za avanture.
                     Za vaše vam je ekspedicije potreban luksuzan i moderan 
                     funkcionalni sat napravljen od titanija 5. klase
@@ -183,9 +183,9 @@
                 </div>
             </div>
             <div class="watch">
-                <img src="agalovic/WA2324-vjezbe/blob/main/athlete.webp" alt="Watch 2">
+                <img src="iskoko13/Webapp/blob/main/slike/athlete.webp" alt="Watch 2">
                 <div class="watch-text">
-                    <h3>MARQ® Athlete</h3>
+                    <h3>MARQ&reg; Athlete</h3>
                     <p>Uvijek pomičete svoje granice. Zaslužujete luksuzan i moderan funkcionalni sat napravljen od titanija 5. klase s AMOLED zaslonom i revolucionarnim funkcijama za treniranje i oporavak.
                     <br> 
                     <br> 
@@ -194,9 +194,9 @@
                 </div>
             </div>
             <div class="watch">
-                <img src="agalovic/WA2324-vjezbe/blob/main/aviator.webp" alt="Watch 3">
+                <img src="iskoko13/Webapp/blob/main/slike/aviator.webp" alt="Watch 3">
                 <div class="watch-text">
-                    <h3>MARQ® Aviator</h3>
+                    <h3>MARQ&reg; Aviator</h3>
                     <p>Želite biti spremni poletjeti u trenutku. Potreban vam je luksuzan i moderan funkcionalni sat napravljen od titanija 5. klase s AMOLED zaslonom i namjenskim funkcijama za letenje.
                     <br> 
                     <br> 
@@ -207,6 +207,6 @@
         </div>
     </main>
 
-    <footer>&copy; A Galovic</footer>
+    <footer>&copy; I Skoko</footer>
 </body>
 </html>
