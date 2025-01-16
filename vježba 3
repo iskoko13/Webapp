@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>
+			vježba 1
+		</title>
+	</head>
+	<body>
+		<h1>Engleski mediji: Gvardiol je komičan</h1>
+		<h2>"Nadskočen kod prvog i nemoćan kod drugog gola"</h2>
+		<p>Goal ga je ocijenio jako lošom četvorkom te ovako to obrazložio: "Vraćen je na njemu omiljenu poziciju stopera, ali u ključnim trenucima nije reagirao dobro. Kod prvog gola ga je Vlahović nadskočio, a kod drugog je bio bespomoćan u zatvaranju strijelca McKennieja."</p>
+		<p>Manchester Evening News je naslov teksta o ocjenama igrača Cityja naslovila "Ederson i Gvardiol rade komične greške", nakon čega piše: "Gvardiol je jadno očistio loptu kod prvog gola, a kod drugog je McKennie ostavljen sam da zabije pred golom."</p>
+		<figure>
+            <a href="https://ip.index.hr/remote/bucket.index.hr/b/index/3ffcce17-ef02-4fd1-bae7-e226d19477ab.jpg?width=765&height=390" target="_blank">
+                <img src="https://ip.index.hr/remote/bucket.index.hr/b/index/3ffcce17-ef02-4fd1-bae7-e226d19477ab.jpg?width=765&height=390" alt="slika">
+            </a>
+            <figcaption>Ovo je opis slike apsolutne putanje.</figcaption>
+        </figure>
+        <figure>
+            <a href=city.jpg" target="_blank">
+                <img src="city.jpg" alt="city">
+            </a>
+            <figcaption>Ovo je opis slike relativne putanje.</figcaption>
+        </figure>
+	</body>
+</html>
